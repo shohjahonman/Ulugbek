@@ -41,7 +41,7 @@ const App = () => {
 
   return (
     <div className="p-6 flex flex-col items-center">
-      <h1 className="text-2xl font-bold mb-4">80 Unique Questions in 4 Groups</h1>
+      <h1 className="text-2xl font-bold mb-4"> Unique Questions in Groups</h1>
 
       {/* Group buttons with distinct names */}
       <div className="flex justify-center gap-4 mb-4">

@@ -25,7 +25,7 @@ const Group = ({
                   : 'bg-gray-200 border-gray-300'
               } hover:bg-gray-300`}
             >
-              {`Question ${index + 1}`}
+              {`Вопрос ${index + 1}`}
             </button>
           ))}
         </div>
