@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ulugbek/static/css/main.f9624133.css",
-    "main.js": "/Ulugbek/static/js/main.06d069d4.js",
+    "main.js": "/Ulugbek/static/js/main.12299c2b.js",
     "static/js/453.33fc9b7f.chunk.js": "/Ulugbek/static/js/453.33fc9b7f.chunk.js",
     "index.html": "/Ulugbek/index.html",
     "main.f9624133.css.map": "/Ulugbek/static/css/main.f9624133.css.map",
-    "main.06d069d4.js.map": "/Ulugbek/static/js/main.06d069d4.js.map",
+    "main.12299c2b.js.map": "/Ulugbek/static/js/main.12299c2b.js.map",
     "453.33fc9b7f.chunk.js.map": "/Ulugbek/static/js/453.33fc9b7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9624133.css",
-    "static/js/main.06d069d4.js"
+    "static/js/main.12299c2b.js"
   ]
 }
